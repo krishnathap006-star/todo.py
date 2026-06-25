@@ -1,2 +1,3 @@
 # todo.py
-This is my first repositories
+This is my first Repositories
+Author - Krishna Thapliyal
